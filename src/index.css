@@ -16,13 +16,14 @@
   .max-container {
     max-width: 1440px;
     margin: 0 auto;
-    
+
   }
+
   .titekomalaki {
-    max-width:1440px;
-    margin:0 auto;
-    border:1 solid red
-}
+    max-width: 1440px;
+    margin: 0 auto;
+    border: 1 solid red
+  }
 
 
   .input {
@@ -62,6 +63,6 @@
   .info-text {
     @apply font-montserrat text-slate-gray text-lg leading-7;
   }
-}
 
+}
 
