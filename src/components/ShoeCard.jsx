@@ -15,6 +15,8 @@ const ShoeCard = ({ imgUrl, changeBigShoeImage, bigShoeImg }) => {
       </div>
       
     </div>
+    
+
   );
 };
 
